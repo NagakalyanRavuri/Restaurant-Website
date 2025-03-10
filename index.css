@@ -1,0 +1,66 @@
+.spec{
+   color:azure;
+    width: 700px;
+    height: 500px;
+    position: relative;
+    margin: 20px;
+    text-align: center;
+}
+
+.spear{
+   color:azure;
+    width: 700px;
+    height: 300px;
+    position: relative;
+    margin: 20px;
+    background-image: url(special\ item.jpg);
+    background-repeat: no-repeat;
+    background-position:right 0px;
+    background-size: 300px
+}
+    
+.rolle{
+    margin-left: 50px;
+}
+
+.rolla{
+    margin-left: 50px;
+    
+}
+
+.gian{
+    width: 85%;
+    margin: auto;
+    padding: 35px 0;
+    align-items: center;
+    justify-content: space-between;
+    
+    
+    
+}
+
+.dora>a{
+   list-style: none; 
+   display: inline-block;
+   margin: 0 20px;
+}
+.cont{
+    color: white;
+    text-align: center;
+}
+
+.nobita > p{
+    width: 900px;
+    
+
+}
+
+.nobita{
+    background-image: url(main12.jpeg);
+    background-repeat: no-repeat;
+    background-position:right 0px;
+    background-size: 500px;
+    
+    
+
+}

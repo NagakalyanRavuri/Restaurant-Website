@@ -1,0 +1,65 @@
+/* General Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #2193b0, #6dd5ed); /* Blue Gradient */
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Heading Styling */
+h1 {
+    color: #fff;
+    font-size: 36px;
+    font-weight: bold;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+/* Login Box Styling */
+.login {
+    background-color: rgba(255, 255, 255, 0.9);
+    width: 350px;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.login label {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+}
+
+.login input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+}
+
+/* Button Styling */
+.go {
+    margin-top: 20px;
+}
+
+.go button {
+    background: linear-gradient(to right, #0072ff, #00c6ff); /* Blue Button */
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    font-size: 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.go button:hover {
+    background: linear-gradient(to right, #00c6ff, #0072ff);
+    transform: scale(1.05);
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}

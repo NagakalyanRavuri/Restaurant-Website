@@ -14,6 +14,7 @@ A simple and visually appealing pizza ordering website developed using HTML and 
 
 ## Usage:
 - Browse the website to explore different sections like Menu, Gallery, and Special Offers.
+- User can order food
 - Leave feedback through the Feedback System to share your experience.
 
 - ## Login Page
